@@ -3,7 +3,7 @@
 int main() {
     int choice;
 
-    printf("===== AWS SYSTEM =====\n");
+    printf("===== DATABASE SYSTEM =====\n");
     printf("1. B-Tree\n");
     printf("2. LSM Tree\n");
     printf("3. Exit\n");
